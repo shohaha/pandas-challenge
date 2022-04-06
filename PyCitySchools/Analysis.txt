@@ -1,0 +1,6 @@
+Observation 1: Charter schools outperformed in comparison to the other schools. Overall there is a 95% passing rate in Math and Reading skills for the Charter schools, compared to an almost 74% proficiency in the District schools. For both these types of schools, passing students seem to have greater proficiency in Reading than Mathematics.
+
+Observation 2: Overall reading skills are more found to be more enhanced than math skills. This is true irrespetive of the size of the schools, the funds spent on the schools, or the size of the schools(determined by the total number of students). 
+
+The analysis doesn't have information about some other features that attribute to performances. 
+For example: student-teacher ratio, students IQ, or their socio-economic background or their teachers' educational levels (or teaching experience). Such information would help explain why these diffrences exist in the skill sets. 
